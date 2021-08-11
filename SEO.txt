@@ -1,0 +1,149 @@
+This assignment is split up into 2 parts, with each part having various sections. .
+
+PART 1
+
+Part 1a:
+
+Find a website in any industry you like. This assignment may be easier for you if you find a website that isn’t ranking well. This means navigating to the 2nd or 3rd page of results in a search. Identify what you think is an important goal for that website. For example, is this website trying to get people to buy products, download information, leave a review, etc.
+When i searched for online shopping i got amazon,flipkart and Myntra at top. So i would like to go for flipkart because it is ranked (th in india according to alexa site of rank. Where amazon is ranked 4th and myntra ranked 80th.
+
+Part 1b:
+
+Perform in-depth keyword research for that website. You do not need to contact the business, simply make best guesses based on the content within the website.
+
+Within your keyword research, identify 7-10 keywords which you think provide the best opportunity for the example site to rank for and include the following:
+Some keywords i found after deep research on flipkart site:
+>Flipkart
+>online shopping
+>shopping online
+>women flipkart
+>online shopping apps
+>best shopping online in india
+>flipkart online shopping
+>shopping sites
+>flipkart mobile
+>flipkart summer sale
+
+Identify long-tail keyword opportunities
+>flipkart mobile
+>flipkart summer sale
+>best shopping online in india
+>flipkart online shopping
+
+Identify 3-5 keywords that are question based and match a “how, what, where, or why” search query.
+>How i can pay on flipkart
+>what if i get wrong delivery
+>why flipkart
+>how i can get discount
+
+Identify what stage of search each keyword belongs to.
+Identify what type of search query it is – whether it is navigational, transactional, or informational.
+>Flipkart                       = informational query
+>online shopping           = informational query
+>shopping online           = informational query
+>women flipkart            = navigational
+>online shopping apps   = informational query
+>best shopping online in india  = informational query
+>flipkart online shopping   = navigational
+>shopping sites               = informational query
+>flipkart  8x honor mobile     = transactional
+>flipkart summer sale     =  navigational
+
+Explain why you chose the keywords you did:
+I have chosen the keywords that i mentioned above is all of because these all when i seached took me to flipkart anyway . It given the links to go to flipkart website.
+
+How do you feel these keywords would help the business meet the goal you discovered?
+I found that on alexa ranking site flipkart is ranked 9th in india. By adding or focusing more on these keywords its rank can be higher than now.
+
+How do you feel these keywords would help draw in organic traffic to the site?
+These are more basic keywords that people can search . So definitely these all will take traffic to the site respectively.
+
+How well do you think the business can effectively compete for this keyword?
+Many websites are highly ranked than flipkart because of their keywords are more specific . If these keywords are added to the site then it can compete among its competitors.
+
+Part 1c:
+
+Research this businesses’ target audience, based on your best guesses by reviewing the site. Describe the website’s audience in 150 – 250 words. Include:
+Target audience is that audience who can use this website for their work or anything. Target audience of any site differ from site to site . Some sites are only made for kids or youngers or women or men etc. From my all knowledge and research about tis website named Flipkart shopping centre , I found that its target audience is huge in number . it is not made specificly made for one generation , it is for every generation. Any age people can go and visit and can buy things according to tyheir needs . Because this site provides amost everything a person can need.
+
+What gender is likely to frequent this site, and perform searches related to this websites products and/or services? Where did you obtain this data?
+Both genders are likely to frequent this site, and perform searches related to this websites products and/or services. I obtai  this data from https://www.marketing91.com/marketing-strategy-flipkart/.
+
+Where is the majority of this audience from? Where did you get this data from and what does this tell us about potential ways we may be able to reach this audience organically? This could be potential content ideas, new information to add to the site, or specific keywords
+couldn't find this
+.
+What are the primary traffic sources for this website? For example, are most people visiting from a desktop device, mobile device, or getting referred from social networks? What useful information can this provide about how we can best reach this audience?
+On desktop and mobile combine traffic is almost 93% in last six months.
+Referal = 3.02%
+direct = 60%
+social = 1.80%
+
+Did you obtain any other information about this websites potential target audience you feel would be useful? Why or why not.
+I didnt find.
+
+
+
+Part 1d:
+
+Create a buyer persona based on your audience analysis and keyword research you performed. Your buyer persona should have a name, job (student or job role), problem they are trying to solve, and other traits that may make it easier to market to this individual.
+A woman whose name is Milly jackson, is a housewife. She have problem in her back ,she cant bend down properly. So from flipkart she can use chairs, dusting material with that she can clean by standing only.
+
+
+PART 2
+
+Part 2a:
+
+Go back to the website you discovered earlier. Choose four key pages of this site. One of these pages should be the homepage. The remaining three pages should be pages you feel are important to drive traffic to.
+>https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+>https://www.flipkart.com/mobile-phones-store?otracker=nmenu_sub_Electronics_0_Mobiles
+>https://www.flipkart.com/womens-clothing/pr?sid=2oq,c1r&otracker=categorytree&otracker=nmenu_sub_Women_0_Clothing
+>https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+
+Part 2b:
+
+Once you have selected your pages, list out the following information, for each page.
+FOR PAGE 1 : HOME PAGE
+Listing : signup/login, about us, contact us, todays deal, women, men , kids, electronics etc
+
+The Page URL: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+
+The Title Tag of the Page. : offers store
+The Meta Description of the Page
+The H1 of the Page (if applicable, if no H1 leave a note stating there was no H1) : no H1
+The H2 of the Page (if applicable, if no H2 leave a note stating there was no H2) : no H1
+
+FOR PAGE 2 : ELECTRONICS
+Listing :mobiles, laptops,watches,washing machine  etc
+
+The Page URL: https://www.flipkart.com/mobile-phones-store?otracker=nmenu_sub_Electronics_0_Mobiles
+
+The Title Tag of the Page. : electronics
+The Meta Description of the Page
+The H1 of the Page (if applicable, if no H1 leave a note stating there was no H1) : no H1
+The H2 of the Page (if applicable, if no H2 leave a note stating there was no H2) : no H1
+
+
+FOR PAGE 3 : WOMEN
+Listing : saree, western, indian , top , jeans, sandals etc
+The Page URL: https://www.flipkart.com/womens-clothing/pr?sid=2oq,c1r&otracker=categorytree&otracker=nmenu_sub_Women_0_Clothing
+The Title Tag of the Page. :women clothing
+The Meta Description of the Page
+The H1 of the Page (if applicable, if no H1 leave a note stating there was no H1) : no H1
+The H2 of the Page (if applicable, if no H2 leave a note stating there was no H2) : no H1
+
+FOR PAGE 3 : OFFERS
+Listing : offers available
+The Page URL: https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone
+The Title Tag of the Page. offer zone
+The Meta Description of the Page
+The H1 of the Page (if applicable, if no H1 leave a note stating there was no H1) : no H1
+The H2 of the Page (if applicable, if no H2 leave a note stating there was no H2) : no H1
+
+Part 2c:
+
+Improve the information on each of these pages. Based on your audience analysis, and keyword research create a new:
+
+Title Tag (Note: this must meet character requirements laid out in the course)
+Meta Description (Note: this must meet character requirements laid out in the course)
+H1 (if none existed previously, create one)
+H2 (if none existed previously, create one)
