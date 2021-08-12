@@ -1,6 +1,6 @@
 {
   "name": "materialui",
-  "homepage": "https://vedlokh.github.io/bootstrapRouter",
+  "homepage": "https://vedlokh.github.io/navRouter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

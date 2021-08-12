@@ -1,0 +1,14 @@
+.home
+{
+
+   
+    text-align: center;
+    margin-top: 50vh;
+    background-color: #6495ed;
+    
+    
+}
+.home:hover{
+    transform: scale(1.2);
+    background-color: chocolate;
+}
