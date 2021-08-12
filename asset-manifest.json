@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bootstrapRouter/static/css/main.d3b7a447.chunk.css",
+    "main.js": "/bootstrapRouter/static/js/main.16e4f8b1.chunk.js",
+    "main.js.map": "/bootstrapRouter/static/js/main.16e4f8b1.chunk.js.map",
+    "runtime-main.js": "/bootstrapRouter/static/js/runtime-main.1c31ca1d.js",
+    "runtime-main.js.map": "/bootstrapRouter/static/js/runtime-main.1c31ca1d.js.map",
+    "static/js/2.a0811b46.chunk.js": "/bootstrapRouter/static/js/2.a0811b46.chunk.js",
+    "static/js/2.a0811b46.chunk.js.map": "/bootstrapRouter/static/js/2.a0811b46.chunk.js.map",
+    "index.html": "/bootstrapRouter/index.html",
+    "static/css/main.d3b7a447.chunk.css.map": "/bootstrapRouter/static/css/main.d3b7a447.chunk.css.map",
+    "static/js/2.a0811b46.chunk.js.LICENSE.txt": "/bootstrapRouter/static/js/2.a0811b46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c31ca1d.js",
+    "static/js/2.a0811b46.chunk.js",
+    "static/css/main.d3b7a447.chunk.css",
+    "static/js/main.16e4f8b1.chunk.js"
+  ]
+}
